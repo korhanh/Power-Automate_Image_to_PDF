@@ -1,4 +1,4 @@
-# PDF to Image: Free and Unlimited PDF Conversion with Power Automate
+# Image to PDF: Free and Unlimited Image Conversion with Power Automate
 
 This project provides a solution for converting images to PDF format using Microsoft Power Automate, allowing you to perform unlimited conversions effortlessly. Follow the steps below to set up and use this solution:
 
